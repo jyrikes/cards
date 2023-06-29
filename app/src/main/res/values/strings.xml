@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">cards</string>
+    <string name="textview">TextView</string>
+    <string name="act_main">act_main</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="oi">oi</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="produtora_do_jogo">Produtora do Jogo</string>
+    <string name="console">Console</string>
+
+    <string-array name="consoles_names">
+        <item>Super Nitendo</item>
+        <item>PS4</item>
+        <item>PS2</item>
+        <item>X-BOX</item>
+    </string-array>
+</resources>
